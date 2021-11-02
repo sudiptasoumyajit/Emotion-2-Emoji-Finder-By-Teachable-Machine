@@ -36,13 +36,6 @@ span
 .emoji span{
   font-size: 30px;
 }
-.well{
-  border: dashed;
-  border-color: green;
-  border-width: 5px;
-  border-radius: 20px;
-  padding: 20px;
-}
 ::-webkit-scrollbar{
   visibility: hidden;
 }
